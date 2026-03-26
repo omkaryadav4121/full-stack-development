@@ -1,0 +1,50 @@
+
+
+/* for the changes in the fonts  */
+@font-face {
+    font-family: death;
+    src: url(death.ttf);
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,
+body{
+    height: 100%;
+    width: 100%;
+}
+
+h1{
+    color:#C4631B;
+    background-color: rgb(15, 16, 15);
+    font-size: 80px;
+    font-family: death; /* here we define that font */
+    font-weight: 90;
+    /* font-style:italic ; */
+    text-align: center;
+}
+
+* 
+#box1{
+    height: 200px;
+    width: 300px;
+    background: linear-gradient(to  right bottom /**this is for the digonal colur**/, rgb(0, 255, 110) 10% ,red 70%);  /** if we want the background in the mixup format **/
+    /* background-color: blue; if we want the solid  1 colur */
+}
+*
+*
+
+#box2{ /** it's for the colur in the  circular form **/
+    height: 200px;
+    width: 10cm;
+    background: radial-gradient(black 40%,white 8%,red,black );
+}
+#box3{
+    height :300px;
+    width : 200px;
+    background : conic-gradient(red, blue );
+}

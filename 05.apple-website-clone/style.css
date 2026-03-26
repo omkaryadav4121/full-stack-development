@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#parent{
+    height: 100%;
+    width: 100%;
+    background-color: bisque;
+    display: flex;  /* showing horizontally all the child */
+    align-items: center; /* move upward downward*/
+    justify-content: space-evenly;/* move left right */
+}
+
+#child1{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+}
+#child2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(82, 61, 167);
+    /* position: absolute; */
+    /* top: 0%;
+    left: 100px; */
+}
+
+#child3{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(186, 134, 56);
+    /* position: absolute; */
+    /* top: 0%;
+    left: 200px;  */
+}

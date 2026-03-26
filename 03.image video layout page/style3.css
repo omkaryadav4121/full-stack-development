@@ -1,0 +1,46 @@
+@font-face {
+    font-family: death;
+    src: url(death.ttf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+
+/* #box{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(136, 71, 64);
+    /* margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 30px; */
+    /* margin: 50px;
+    padding-left: 50px ;
+    padding-top: 60px; */
+/* } */ 
+
+/* button{
+    height: 100px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 30px;
+    padding: 5%;
+    background:linear-gradient(red,yellow,green);
+    font-size: 30px;
+    font-weight: 30px;
+} */
+
+#box{
+    height: 500px;
+    width: 500px;
+    border: 10px solid hsl(306, 29%, 45%) ,;
+    background-color: aqua;
+    border-radius: 50%;
+    
+}

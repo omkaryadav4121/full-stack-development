@@ -1,0 +1,20 @@
+div - container
+div - rectanguler
+
+**for the background-multiple colurs you can use** 
+1.linear-gradient - it s can form of the line ,
+2.radial-gradient - means colurs in the form or circulr
+3.conicm-gradient - mixup of the cours or cones
+
+
+**for the changing the direction **
+1.to right 
+2.to left 
+*.for the diagonal use  - to right or left bottom  [outer side]
+
+
+for the * margin* it used for moving the box 
+1.we hare margin left,right,bottom,top --for the custom margin for particular
+2.but for common we use only margin like margin -50px - then its take from all sides
+
+padding use [sapace in inside box]

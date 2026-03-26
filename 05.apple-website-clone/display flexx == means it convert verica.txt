@@ -1,0 +1,3 @@
+display flexx  == means it convert verical serial wies to horizontally
+align item ==  it handles things in the y-axis
+justify content ==  it handles things in the x-axis in that we have to condider

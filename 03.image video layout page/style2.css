@@ -1,0 +1,61 @@
+@font-face {
+    font-family: death;
+    src: url(death.ttf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,
+body{
+    height: 100%;
+    width: 100%;
+}
+
+/* h1{
+    color: rgb(214, 13, 13);
+    height: 100px;
+    width: 900px;
+    font-family: death;
+    font-size : 50px;
+    text-align: center;
+    
+} */
+
+/* #outer{
+    height: 500px;
+    width: 400px;
+    background-color: crimson;
+ }
+#inner{
+    height: 50%;
+    width: 200px;
+    background-color: yellow;
+}
+h2{
+    color: rgb(30, 59, 148);
+    font-family: death;
+    background-image: url(Death_Spirit.jpg);
+} */
+ #box1{
+    height: 1080px;
+    width: 1080px;
+    background-image: url(Anime\ graveyarrd.png);
+    background-size:contain;
+    
+    /* background-position: center; */
+    background-repeat: no-repeat;
+
+ }
+   h1{
+    color:red;
+    font-family: death;
+    font-size : 50px;
+    text-align: center;
+    font-family: death;
+    padding: none;
+    
+    
+}
